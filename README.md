@@ -128,8 +128,7 @@ Basic settings tailored to the selected model and separate advanced controls.
 Optional preload at startup. Models remain resident after use until they are
 unloaded, replaced, or the application shuts down.
 
-Demo
-<p align="center"> <a href="https://youtu.be/Z2wRrs9Q9pU"> <img src="https://img.youtube.com/vi/Z2wRrs9Q9pU/maxresdefault.jpg" alt="MOM Notes presentation and demo" width="800"> </a> </p>
+
 
 <p align="center"><a href="https://youtu.be/Z2wRrs9Q9pU">Watch the MOM Notes presentation and demo on YouTube</a></p>
 
