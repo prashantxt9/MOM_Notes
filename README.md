@@ -1,29 +1,5 @@
 
 
-Pasted markdown.md
-File
-ISSE meet2 notes ka name change kr ke MOM notes karo and remove all which is related with meet2 note
-
-
-Done. मैंने Meet2Notes → MOM Notes rename कर दिया है और पुराने Meet2Notes / Meetily / local_meeting_ai references हटा दिए हैं. 
-
-
- 
-
-
-
-
-Pasted markdown.md
-File
-same here also
-
-Done. Is file mein bhi Meet2Notes ko MOM Notes kar diya hai aur old/other product references remove kar diye hain. 
-
-
- 
-
-
-
 MOM_Notes.md
 
 
