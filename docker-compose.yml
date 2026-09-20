@@ -1,0 +1,17 @@
+services:
+  mom-notes:
+    build: .
+    container_name: mom-notes
+    restart: unless-stopped
+    ports:
+      - "8765:8765"
+    volumes:
+      - mom_notes_data:/root/.local/share/local_meeting_ai
+      - mom_notes_models:/root/.cache/huggingface
+    environment:
+      - HOST=0.0.0.0
+      - PORT=8765
+
+volumes:
+  mom_notes_data:
+  mom_notes_models:
